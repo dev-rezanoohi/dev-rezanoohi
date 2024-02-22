@@ -22,7 +22,7 @@
     <img
         src="https://skillicons.dev/icons?i=windows,linux,ubuntu,vscode,androidstudio,idea,visualstudio,github,discord,figma,ai" />
     <br />
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,cs,dart,flutter" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,cs,dart,flutter,git" /><br>
 </div>
 
 <br />
